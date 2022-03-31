@@ -1,0 +1,17 @@
+{
+  "MainDB": {
+    "Name": "前置机MySQL",
+    "Protocol": "MySQL",
+    "IP": "133.65.23.89",
+    "Port": "3306",
+    "DBName": "hipem",
+    "Network": "tcp",
+    "UserName": "hipem",
+    "PassWord": "Hipem135!!",
+    "NlsLang": "UTF-8",
+    "LibDir": "",
+    "MaxOpen": 20,
+    "MaxIdle": 5,
+    "MaxLifetime": 120
+  }
+}
